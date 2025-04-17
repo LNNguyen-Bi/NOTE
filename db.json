@@ -6,22 +6,96 @@
       "content": "Thảo luận về tiến độ và các vấn đề phát sinh.",
       "createdAt": "2025-04-10T10:00:00Z",
       "updatedAt": "2025-04-10T10:30:00Z",
-      "tags": ["dự án", "công việc"]
+      "tags": [
+        "dự án",
+        "công việc"
+      ]
     },
     {
       "id": 2,
       "title": "Ghi chú cá nhân",
       "content": "Nhớ gọi điện cho mẹ vào cuối tuần.",
       "createdAt": "2025-04-09T15:45:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Học bài cho kỳ thi",
+      "content": "Ôn tập các môn học và làm bài tập.",
+      "createdAt": "2025-04-11T09:00:00Z",
+      "tags": ["học tập", "kỳ thi"]
+    },
+    {
+      "id": 4,
+      "title": "Mua sắm đồ dùng",
+      "content": "Mua sắm đồ dùng cần thiết cho văn phòng.",
+      "createdAt": "2025-04-11T10:00:00Z",
+      "tags": ["mua sắm", "văn phòng"]
+    },
+    {
+      "id": 5,
+      "title": "Tham gia hội thảo",
+      "content": "Đăng ký tham gia hội thảo về công nghệ mới.",
+      "createdAt": "2025-04-11T11:00:00Z",
+      "tags": ["hội thảo", "công nghệ"]
+    },
+    {
+      "id": 6,
+      "title": "Tập thể dục",
+      "content": "Đi bộ hoặc chạy bộ ít nhất 30 phút mỗi ngày.",
+      "createdAt": "2025-04-11T12:00:00Z",
+      "tags": ["sức khỏe", "thể dục"]
+    },
+    {
+      "id": 7,
+      "title": "Xem phim cuối tuần",
+      "content": "Lên danh sách các bộ phim muốn xem.",
+      "createdAt": "2025-04-11T13:00:00Z",
+      "tags": ["giải trí", "phim"]
+    },
+    {
+      "id": 8,
+      "title": "Gặp gỡ bạn bè",
+      "content": "Hẹn gặp bạn bè vào thứ Bảy.",
+      "createdAt": "2025-04-11T14:00:00Z",
+      "tags": ["gặp gỡ", "bạn bè"]
+    },
+    {
+      "id": 9,
+      "title": "Nấu ăn",
+      "content": "Thử công thức mới cho bữa tối.",
+      "createdAt": "2025-04-11T15:00:00Z",
+      "tags": ["nấu ăn", "ẩm thực"]
+    },
+    {
+      "id": 10,
+      "title": "Đọc sách",
+      "content": "Dành thời gian đọc ít nhất 1 chương sách mỗi ngày.",
+      "createdAt": "2025-04-11T16:00:00Z",
+      "tags": ["đọc sách", "giải trí"]
+    },
+    {
+      "id": 11,
+      "title": "Làm vườn",
+      "content": "Tưới cây và chăm sóc vườn.",
+      "createdAt": "2025-04-11T17:00:00Z",
+      "tags": ["làm vườn", "sở thích"]
+    },
+    {
+      "id": 12,
+      "title": "Lên kế hoạch tài chính",
+      "content": "Xem xét ngân sách và lập kế hoạch chi tiêu cho tháng tới.",
+      "createdAt": "2025-04-11T18:00:00Z",
+      "tags": ["tài chính", "kế hoạch"]
     }
  ],
+  
   
 "accounts": [
     {
       "id": 1,
       "userId": 1,
-      "username": "nguyenvanan",
-      "password": "An@123456",
+      "username": "LNNguyen",
+      "password": "Nguyen@1234",
       "status": "active",
       "lastLogin": "2025-04-02T08:15:30.000Z",
       "createdAt": "2023-05-01T00:00:00.000Z"
